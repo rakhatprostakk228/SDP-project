@@ -1,0 +1,10 @@
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/ProductServiceApplication.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/controller/ProductController.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/model/Product.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/model/ProductRepository.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/service/ConcreteObserver.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/service/DiscountStrategy.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/service/PriceStrategy.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/service/ProductObserver.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/service/ProductService.java
+/Users/Tale/IdeaProjects/Product Service/src/main/java/com/example/productservice/service/ProductServiceImpl.java
